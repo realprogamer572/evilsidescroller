@@ -1,0 +1,1449 @@
+﻿Log file open, 09/24/25 19:09:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: evilsidescrooler
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.155853
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 7800X3D 8-Core Processor           , GPU: NVIDIA GeForce RTX 4080
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -AUTH_LOGIN=unused -AUTH_PASSWORD=b01ebca418cd48508d162d07691bac12 -AUTH_TYPE=exchangecode -epicapp=UE_4.27 -epicenv=Prod -EpicPortal -epicusername=huntsmen238 -epicuserid=8dd6fcf8582e437a8311ba1b23f9d9fe -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Engine.ini]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Engine.ini]
+[2025.09.24-23.09.01:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Engine.ini]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Engine.ini]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2025.09.24-23.09.01:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Engine.ini]
+[2025.09.24-23.09.01:532][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Engine.ini]
+[2025.09.24-23.09.01:558][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Scalability.ini]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Scalability.ini]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Scalability.ini]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Scalability.ini]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Scalability.ini]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Scalability.ini]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.09.24-23.09.01:558][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Scalability.ini]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Scalability.ini]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.09.24-23.09.01:559][  0]LogInit: Selected Device Profile: [Windows]
+[2025.09.24-23.09.01:559][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2025.09.24-23.09.01:559][  0]LogHAL: Display: Platform has ~ 32 GB [33458302976 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.09.24-23.09.01:559][  0]LogInit: Going up to parent DeviceProfile []
+[2025.09.24-23.09.01:559][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Scalability.ini]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Scalability.ini]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Scalability.ini]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Scalability.ini]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Scalability.ini]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Scalability.ini]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Scalability.ini]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Scalability.ini]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.09.24-23.09.01:559][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.09.24-23.09.01:560][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2025.09.24-23.09.01:560][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2025.09.24-23.09.01:560][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2025.09.24-23.09.01:560][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Engine.ini]
+[2025.09.24-23.09.01:560][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Config/Windows/Editor.ini]
+[2025.09.24-23.09.01:560][  0]LogInit: Computer: DESKTOP-8M6N2E3
+[2025.09.24-23.09.01:560][  0]LogInit: User: Trent
+[2025.09.24-23.09.01:560][  0]LogInit: CPU Page size=4096, Cores=8
+[2025.09.24-23.09.01:560][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.09.24-23.09.01:560][  0]LogMemory: Memory total: Physical=31.2GB (32GB approx)
+[2025.09.24-23.09.01:560][  0]LogMemory: Platform Memory Stats for Windows
+[2025.09.24-23.09.01:560][  0]LogMemory: Process Physical Memory: 148.08 MB used, 148.08 MB peak
+[2025.09.24-23.09.01:560][  0]LogMemory: Process Virtual Memory: 131.47 MB used, 131.47 MB peak
+[2025.09.24-23.09.01:560][  0]LogMemory: Physical Memory: 15107.31 MB used,  16801.01 MB free, 31908.32 MB total
+[2025.09.24-23.09.01:560][  0]LogMemory: Virtual Memory: 134203904.00 MB used,  13827.25 MB free, 134217728.00 MB total
+[2025.09.24-23.09.01:563][  0]LogWindows: WindowsPlatformFeatures enabled
+[2025.09.24-23.09.01:588][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2025.09.24-23.09.01:589][  0]LogInit: Using OS detected language (en-US).
+[2025.09.24-23.09.01:589][  0]LogInit: Using OS detected locale (en-US).
+[2025.09.24-23.09.01:593][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2025.09.24-23.09.01:698][  0]LogInit: Setting process to per monitor DPI aware
+[2025.09.24-23.09.01:714][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2025.09.24-23.09.01:727][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2025.09.24-23.09.01:727][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2025.09.24-23.09.01:837][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2025.09.24-23.09.01:872][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2025.09.24-23.09.01:872][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2025.09.24-23.09.01:872][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2025.09.24-23.09.01:872][  0]LogD3D11RHI: D3D11 adapters:
+[2025.09.24-23.09.01:998][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 4080' (Feature Level 11_0)
+[2025.09.24-23.09.01:998][  0]LogD3D11RHI:       16050/0/15954 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2025.09.24-23.09.02:044][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2025.09.24-23.09.02:044][  0]LogD3D11RHI:       485/0/15954 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2025.09.24-23.09.02:045][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2025.09.24-23.09.02:045][  0]LogD3D11RHI:       0/0/15954 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2025.09.24-23.09.02:045][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2025.09.24-23.09.02:045][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 4080
+[2025.09.24-23.09.02:045][  0]LogD3D11RHI:     VendorId    : 10de
+[2025.09.24-23.09.02:045][  0]LogD3D11RHI:     DeviceId    : 2704
+[2025.09.24-23.09.02:045][  0]LogD3D11RHI:     SubSysId    : 51111462
+[2025.09.24-23.09.02:045][  0]LogD3D11RHI:     Revision    : 00a1
+[2025.09.24-23.09.02:045][  0]LogD3D11RHI:     DedicatedVideoMemory : 16829644800 bytes
+[2025.09.24-23.09.02:045][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.09.24-23.09.02:045][  0]LogD3D11RHI:     SharedSystemMemory : 16729151488 bytes
+[2025.09.24-23.09.02:045][  0]LogD3D11RHI:     AdapterLuid : 0 71286
+[2025.09.24-23.09.02:054][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2025.09.24-23.09.02:054][  0]LogD3D11RHI:     GPU DeviceId: 0x2704 (for the marketing name, search the web for "GPU Device Id")
+[2025.09.24-23.09.02:054][  0]LogWindows: EnumDisplayDevices:
+[2025.09.24-23.09.02:054][  0]LogWindows:    0. 'NVIDIA GeForce RTX 4080' (P:0 D:1)
+[2025.09.24-23.09.02:054][  0]LogWindows:    1. 'NVIDIA GeForce RTX 4080' (P:1 D:1)
+[2025.09.24-23.09.02:054][  0]LogWindows:    2. 'NVIDIA GeForce RTX 4080' (P:0 D:0)
+[2025.09.24-23.09.02:054][  0]LogWindows:    3. 'NVIDIA GeForce RTX 4080' (P:0 D:0)
+[2025.09.24-23.09.02:054][  0]LogWindows:    4. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2025.09.24-23.09.02:055][  0]LogWindows:    5. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2025.09.24-23.09.02:055][  0]LogWindows:    6. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2025.09.24-23.09.02:055][  0]LogWindows:    7. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2025.09.24-23.09.02:055][  0]LogWindows:    8. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2025.09.24-23.09.02:056][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2025.09.24-23.09.02:056][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 4080
+[2025.09.24-23.09.02:056][  0]LogD3D11RHI:   Driver Version: 581.29 (internal:32.0.15.8129, unified:581.29)
+[2025.09.24-23.09.02:056][  0]LogD3D11RHI:      Driver Date: 9-5-2025
+[2025.09.24-23.09.02:056][  0]LogRHI: Texture pool is 11235 MB (70% of 16050 MB)
+[2025.09.24-23.09.02:056][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2025.09.24-23.09.02:056][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 4080
+[2025.09.24-23.09.02:056][  0]LogD3D11RHI:     VendorId    : 10de
+[2025.09.24-23.09.02:056][  0]LogD3D11RHI:     DeviceId    : 2704
+[2025.09.24-23.09.02:056][  0]LogD3D11RHI:     SubSysId    : 51111462
+[2025.09.24-23.09.02:056][  0]LogD3D11RHI:     Revision    : 00a1
+[2025.09.24-23.09.02:056][  0]LogD3D11RHI:     DedicatedVideoMemory : 16829644800 bytes
+[2025.09.24-23.09.02:056][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.09.24-23.09.02:056][  0]LogD3D11RHI:     SharedSystemMemory : 16729151488 bytes
+[2025.09.24-23.09.02:056][  0]LogD3D11RHI:     AdapterLuid : 0 71286
+[2025.09.24-23.09.02:151][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2025.09.24-23.09.02:151][  0]LogD3D11RHI: Async texture creation enabled
+[2025.09.24-23.09.02:151][  0]LogD3D11RHI: Array index from any shader is supported
+[2025.09.24-23.09.02:153][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061080).
+[2025.09.24-23.09.02:169][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2025.09.24-23.09.02:189][  0]LogRHI: GeForceNow SDK initialized: 1
+[2025.09.24-23.09.02:429][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2025.09.24-23.09.02:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2025.09.24-23.09.02:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2025.09.24-23.09.02:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2025.09.24-23.09.02:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2025.09.24-23.09.02:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2025.09.24-23.09.02:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2025.09.24-23.09.02:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2025.09.24-23.09.02:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2025.09.24-23.09.02:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2025.09.24-23.09.02:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2025.09.24-23.09.02:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2025.09.24-23.09.02:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2025.09.24-23.09.02:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2025.09.24-23.09.02:466][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2025.09.24-23.09.02:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2025.09.24-23.09.02:471][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2025.09.24-23.09.02:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2025.09.24-23.09.02:480][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2025.09.24-23.09.02:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2025.09.24-23.09.02:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2025.09.24-23.09.02:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2025.09.24-23.09.02:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2025.09.24-23.09.02:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2025.09.24-23.09.02:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2025.09.24-23.09.02:512][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2025.09.24-23.09.02:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2025.09.24-23.09.02:519][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2025.09.24-23.09.02:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2025.09.24-23.09.02:527][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2025.09.24-23.09.02:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2025.09.24-23.09.02:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2025.09.24-23.09.02:532][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2025.09.24-23.09.02:536][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.09.24-23.09.02:558][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2025.09.24-23.09.02:576][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2025.09.24-23.09.02:576][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Intermediate/Shaders/WorkingDirectory/47840/).
+[2025.09.24-23.09.02:576][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Trent/AppData/Local/Temp/UnrealShaderWorkingDir/FFFED8A545705E00180D9697CDCB2811/'.
+[2025.09.24-23.09.02:576][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.09.24-23.09.02:577][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2025.09.24-23.09.02:577][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2025.09.24-23.09.03:075][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2025.09.24-23.09.03:111][  0]LogDerivedDataCache: Loaded boot cache 0.04s 96MB C:/Users/Trent/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2025.09.24-23.09.03:112][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Trent/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2025.09.24-23.09.03:112][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.09.24-23.09.03:112][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2025.09.24-23.09.03:112][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.09.24-23.09.03:112][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2025.09.24-23.09.03:124][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2025.09.24-23.09.03:124][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.09.24-23.09.03:124][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2025.09.24-23.09.03:129][  0]LogDerivedDataCache: Speed tests for C:/Users/Trent/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2025.09.24-23.09.03:129][  0]LogDerivedDataCache: Display: Performance to C:/Users/Trent/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1796.50MBs, RandomWriteSpeed=220.36MBs. Assigned SpeedClass 'Local'
+[2025.09.24-23.09.03:131][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Trent/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2025.09.24-23.09.03:131][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2025.09.24-23.09.03:131][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2025.09.24-23.09.03:160][  0]LogSlate: Using FreeType 2.10.0
+[2025.09.24-23.09.03:160][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.09.24-23.09.03:176][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2025.09.24-23.09.03:322][  0]LogInit: Selected Device Profile: [Windows]
+[2025.09.24-23.09.03:322][  0]LogInit: Active device profile: [000001D317E48D00][000001D310C28200 49] Windows
+[2025.09.24-23.09.03:323][  0]LogInit: Profiles: [000001D317E48D00][000001D310C28200 49] Windows, [000001D317E09E00][000001D30EEC8380 49] WindowsNoEditor, [000001D317E49C00][000001D30EECC500 49] WindowsServer, [000001D317E0AC00][000001D30EED0680 49] WindowsClient, [000001D317E4A900][000001D310C2C7C0 49] IOS, [000001D317E09500][000001D30EED4900 49] iPadAir, [000001D317E4BE00][000001D30EED8A40 49] iPadAir2, [000001D317DB9100][000001D30EEE4CC0 49] IPadPro, [000001D317DB9200][000001D30EEDCD00 49] iPadAir3, [000001D317E08C00][000001D30EEE8E80 49] iPadAir4, [000001D317DB9E00][000001D30EEED000 49] iPadMini2, [000001D317E0AE00][000001D30EEF5180 49] iPadMini3, [000001D317DBB900][000001D30E62B300 49] iPadMini4, [000001D317E0BD00][000001D316FED480 49] iPadMini5, [000001D317DC0A00][000001D31703B740 49] iPhone6, [000001D317DC0B00][000001D316FF1780 49] iPodTouch6, [000001D317E4AD00][000001D3182ADA40 49] iPhone7, [000001D317E4AE00][000001D3182A9A80 49] iPodTouch7, [000001D317DBBE00][000001D3182D3C00 49] iPhone5S, [000001D317DB8300][000001D3182EC200 49] iPhone6Plus, [000001D317DC3D00][000001D3182F0380 49] iPhone6S, [000001D317DBB700][000001D3182F4500 49] iPhone6SPlus, [000001D317DC2600][000001D3182F8680 49] iPhone7Plus, [000001D317DB9900][000001D3182FC800 49] iPhoneSE, [000001D317DC0F00][000001D30EEE0940 49] iPhone8, [000001D317DB9400][000001D318300A80 49] iPhone8Plus, [000001D317DC1F00][000001D318304BC0 49] iPhoneX, [000001D317E4B900][000001D318348D00 49] iPhoneXS, [000001D317DC1700][000001D318358E80 49] iPhoneXSMax, [000001D317E49B00][000001D31835D000 49] iPhoneXR, [000001D317DC3E00][000001D318361180 49] iPhone11, [000001D317E48500][000001D318365300 49] iPhone11Pro, [000001D317DC1C00][000001D318369480 49] iPhone11ProMax, [000001D317E49E00][000001D31836D600 49] iPhoneSE2, [000001D317DC3900][000001D318371780 49] iPhone12Mini, [000001D317E48700][000001D318375900 49] iPhone12, [000001D317DC0200][000001D318379A80 49] iPhone12Pro, [000001D317E4A100][000001D31837DC00 49] iPhone12ProMax, [000001D317DC2000][000001D318380200 49] iPadPro105, [000001D317E49400][000001D318384380 49] iPadPro129, [000001D317DC0700][000001D3183E0500 49] iPadPro97, [000001D317E48100][000001D3183E4680 49] iPadPro2_129, [000001D317DC3100][000001D31842A800 49] iPad5, [000001D317E4A300][000001D318432980 49] iPad6, [000001D317DC1100][000001D318436B00 49] iPad7, [000001D317E4B500][000001D318354C40 49] iPad8, [000001D317DC0400][000001D318442D80 49] iPadPro11, [000001D317E48B00][000001D318456EC0 49] iPadPro2_11, [000001D317DC2100][000001D319539040 49] iPadPro3_129, [000001D317E4AA00][000001D31953D1C0 49] iPadPro4_129, [000001D317DC0300][000001D319541340 49] AppleTV, [000001D317E49A00][000001D3195BB4C0 49] AppleTV4K, [000001D317DC1300][000001D3195BF640 49] TVOS, [000001D317E48600][000001D3195D77C0 49] Mac, [000001D317DC3400][000001D319671940 49] MacClient, [000001D317E49800][000001D319691AC0 49] MacNoEditor, [000001D317DC1900][000001D3196AE0C0 49] MacServer, [000001D317E4B000][000001D3196FE240 49] Linux, [000001D317DC0500][000001D3197163C0 49] LinuxAArch64, [000001D317E4BC00][000001D319828540 49] LinuxNoEditor, [000001D317DC2300][000001D31982C6C0 49] LinuxAArch64NoEditor, [000001D317E49500][000001D319856840 49] LinuxClient, [000001D317DC2800][000001D31985A9C0 49] LinuxAArch64Client, [000001D317E48F00][000001D31985EB40 49] LinuxServer, [000001D317DC2400][000001D319862CC0 49] LinuxAArch64Server, [000001D317E49000][000001D319534E00 49] Android, [000001D317DC3300][000001D319866F40 49] Android_Low, [000001D317E4A500][000001D319943080 49] Android_Mid, [000001D317DC1400][000001D3199471C0 49] Android_High, [000001D317E49200][000001D31994F340 49] Android_Default, [000001D317DC0800][000001D3199534C0 49] Android_Adreno4xx, [000001D317E48800][000001D319957640 49] Android_Adreno5xx_Low, [000001D317DBAB00][000001D31995B7C0 49] Android_Adreno5xx, [000001D317E08400][000001D31995F940 49] Android_Adreno6xx, [000001D317DBA900][000001D319A0DAC0 49] Android_Adreno6xx_Vulkan, [000001D317E0A700][000001D319A100C0 49] Android_Mali_T6xx, [000001D317DBB100][000001D319A14240 49] Android_Mali_T7xx, [000001D317E0B400][000001D319A1C3C0 49] Android_Mali_T8xx, [000001D317DB9300][000001D319A20540 49] Android_Mali_G71, [000001D317E0A400][000001D319A6A6C0 49] Android_Mali_G72, [000001D317DB9000][000001D319A6E840 49] Android_Mali_G72_Vulkan, [000001D317E0A000][000001D319A729C0 49] Android_Mali_G76, [000001D317DBA100][000001D319B30B40 49] Android_Mali_G76_Vulkan, [000001D317E09600][000001D319B34CC0 49] Android_Mali_G77, [000001D317DBBB00][000001D319B38E40 49] Android_Mali_G77_Vulkan, [000001D317E0AA00][000001D31994AF80 49] Android_Mali_G78, [000001D317DBB500][000001D319BBB0C0 49] Android_Mali_G78_Vulkan, [000001D317E0A300][000001D319BC7200 49] Android_Mali_G710, [000001D317DBBD00][000001D31838D340 49] Android_Mali_G710_Vulkan, [000001D317E0BC00][000001D3183954C0 49] Android_Vulkan_SM5, [000001D317DBA700][000001D318399640 49] Android_PowerVR_G6xxx, [000001D317E08100][000001D31839D7C0 49] Android_PowerVR_GT7xxx, [000001D317DBB300][000001D3183A1940 49] Android_PowerVR_GE8xxx, [000001D317E09D00][000001D3183A5AC0 49] Android_PowerVR_GM9xxx, [000001D317DBAA00][000001D3183A80C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001D317E09A00][000001D3183AC240 49] Android_TegraK1, [000001D317DB8A00][000001D3183B03C0 49] Android_Unknown_Vulkan, [000001D317E0B100][000001D3183B4540 49] Lumin, [000001D317DB9F00][000001D3183B86C0 49] Lumin_Desktop, [000001D317DC2A00][000001D3183BC840 49] HoloLens, 
+[2025.09.24-23.09.03:425][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.09.24-23.09.03:425][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2025.09.24-23.09.03:425][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.09.24-23.09.03:425][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2025.09.24-23.09.03:425][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.09.24-23.09.03:438][  0]LogNetVersion: evilsidescrooler 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1004178458)
+[2025.09.24-23.09.03:720][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2025.09.24-23.09.03:761][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2025.09.24-23.09.03:766][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2025.09.24-23.09.03:766][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2025.09.24-23.09.03:766][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.09.24-23.09.03:947][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0AB7371B464F8E7100AA368464CC2B37 | Instance: 8C7F86434F89604AB93357B794A21E9C (DESKTOP-8M6N2E3-47840).
+[2025.09.24-23.09.04:021][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.09.24-23.09.04:024][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.09.24-23.09.04:033][  0]LogPython: Using Python 3.7.7
+[2025.09.24-23.09.04:609][  0]SourceControl: Source control is disabled
+[2025.09.24-23.09.04:609][  0]SourceControl: Source control is disabled
+[2025.09.24-23.09.04:611][  0]SourceControl: Source control is disabled
+[2025.09.24-23.09.04:613][  0]SourceControl: Source control is disabled
+[2025.09.24-23.09.04:614][  0]SourceControl: Source control is disabled
+[2025.09.24-23.09.04:618][  0]LogUProjectInfo: Found projects:
+[2025.09.24-23.09.04:717][  0]LogOpenImageDenoise: OIDN starting up
+[2025.09.24-23.09.04:725][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.09.24-23.09.04:735][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.09.24-23.09.04:735][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.09.24-23.09.04:805][  0]LogCollectionManager: Loaded 0 collections in 0.001270 seconds
+[2025.09.24-23.09.04:821][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Collections/' took 0.00s
+[2025.09.24-23.09.04:821][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/Developers/Trent/Collections/' took 0.00s
+[2025.09.24-23.09.04:821][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/Collections/' took 0.00s
+[2025.09.24-23.09.04:821][  0]LogOcInput: OculusInput pre-init called
+[2025.09.24-23.09.04:957][  0]LogEngine: Initializing Engine...
+[2025.09.24-23.09.05:019][  0]LogHMD: Failed to initialize OpenVR with code 215
+[2025.09.24-23.09.05:093][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2025.09.24-23.09.05:125][  0]LogHMD: Failed to create an OpenXR instance, result is XR_ERROR_RUNTIME_FAILURE. Please check if you have an OpenXR runtime installed. The following extensions were enabled:
+[2025.09.24-23.09.05:125][  0]LogHMD: - XR_KHR_D3D11_enable
+[2025.09.24-23.09.05:125][  0]LogHMD: - XR_KHR_D3D12_enable
+[2025.09.24-23.09.05:125][  0]LogHMD: - XR_KHR_opengl_enable
+[2025.09.24-23.09.05:125][  0]LogHMD: - XR_KHR_vulkan_enable
+[2025.09.24-23.09.05:125][  0]LogHMD: - XR_KHR_composition_layer_depth
+[2025.09.24-23.09.05:125][  0]LogHMD: - XR_KHR_visibility_mask
+[2025.09.24-23.09.05:125][  0]LogHMD: - XR_EXT_eye_gaze_interaction
+[2025.09.24-23.09.05:125][  0]LogHMD: - XR_EXT_hand_tracking
+[2025.09.24-23.09.05:125][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2025.09.24-23.09.05:126][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.09.24-23.09.05:211][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.09.24-23.09.05:216][  0]LogAIModule: Creating AISystem for world Untitled
+[2025.09.24-23.09.05:216][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.09.24-23.09.05:218][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.09.24-23.09.05:219][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.09.24-23.09.05:219][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.09.24-23.09.05:219][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.09.24-23.09.05:219][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.24-23.09.05:219][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.24-23.09.05:219][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.24-23.09.05:219][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.24-23.09.05:219][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.09.24-23.09.05:219][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.24-23.09.05:219][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.09.24-23.09.05:219][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.24-23.09.05:219][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.24-23.09.05:219][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.24-23.09.05:219][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.24-23.09.05:219][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2025.09.24-23.09.05:230][  0]LogAudioMixer: Display: 0: FrontLeft
+[2025.09.24-23.09.05:230][  0]LogAudioMixer: Display: 1: FrontRight
+[2025.09.24-23.09.05:251][  0]LogAudioMixer: Display: Using Audio Device Headphones (ROG CETRA TRUE WIRELESS SPEEDNOVA)
+[2025.09.24-23.09.05:253][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.24-23.09.05:254][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.24-23.09.05:254][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.24-23.09.05:255][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.09.24-23.09.05:255][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.09.24-23.09.05:255][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.09.24-23.09.05:255][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.09.24-23.09.05:255][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.09.24-23.09.05:255][  0]LogInit: FAudioDevice initialized.
+[2025.09.24-23.09.05:255][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.09.24-23.09.05:255][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.09.24-23.09.05:292][  0]LogDerivedDataCache: Saved boot cache 0.04s 96MB C:/Users/Trent/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2025.09.24-23.09.05:292][  0]LogInit: Texture streaming: Enabled
+[2025.09.24-23.09.05:300][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2025.09.24-23.09.05:302][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2025.09.24-23.09.05:302][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2025.09.24-23.09.05:303][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2025.09.24-23.09.05:319][  0]LogInit: Transaction tracking system initialized
+[2025.09.24-23.09.05:332][  0]BlueprintLog: New page: Editor Load
+[2025.09.24-23.09.05:400][  0]LocalizationService: Localization service is disabled
+[2025.09.24-23.09.05:414][  0]TimingProfiler: Initialize
+[2025.09.24-23.09.05:414][  0]TimingProfiler: OnSessionChanged
+[2025.09.24-23.09.05:414][  0]LoadingProfiler: Initialize
+[2025.09.24-23.09.05:414][  0]LoadingProfiler: OnSessionChanged
+[2025.09.24-23.09.05:414][  0]NetworkingProfiler: Initialize
+[2025.09.24-23.09.05:414][  0]NetworkingProfiler: OnSessionChanged
+[2025.09.24-23.09.05:414][  0]MemoryProfiler: Initialize
+[2025.09.24-23.09.05:414][  0]MemoryProfiler: OnSessionChanged
+[2025.09.24-23.09.05:517][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2025.09.24-23.09.05:517][  0]LogCook: Display: Mobile HDR setting 0
+[2025.09.24-23.09.05:624][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/' took 0.00s
+[2025.09.24-23.09.05:729][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.09.24-23.09.05:731][  0]SourceControl: Source control is disabled
+[2025.09.24-23.09.05:731][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.895
+[2025.09.24-23.09.05:735][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2025.09.24-23.09.05:735][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.09.24-23.09.05:735][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.05:735][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.09.24-23.09.05:739][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2025.09.24-23.09.05:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2025.09.24-23.09.05:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2025.09.24-23.09.05:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2025.09.24-23.09.05:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2025.09.24-23.09.05:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2025.09.24-23.09.05:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2025.09.24-23.09.05:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2025.09.24-23.09.05:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2025.09.24-23.09.05:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2025.09.24-23.09.05:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2025.09.24-23.09.05:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2025.09.24-23.09.05:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Collapse01.uasset"
+[2025.09.24-23.09.05:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Collapse02.uasset"
+[2025.09.24-23.09.05:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2025.09.24-23.09.05:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Explosion01.uasset"
+[2025.09.24-23.09.05:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Explosion02.uasset"
+[2025.09.24-23.09.05:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2025.09.24-23.09.05:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Fire01.uasset"
+[2025.09.24-23.09.05:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2025.09.24-23.09.05:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2025.09.24-23.09.05:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2025.09.24-23.09.05:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Light01.uasset"
+[2025.09.24-23.09.05:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2025.09.24-23.09.05:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Light02.uasset"
+[2025.09.24-23.09.05:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2025.09.24-23.09.05:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Smoke01.uasset"
+[2025.09.24-23.09.05:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2025.09.24-23.09.05:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2025.09.24-23.09.05:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2025.09.24-23.09.05:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2025.09.24-23.09.05:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2025.09.24-23.09.05:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2025.09.24-23.09.05:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2025.09.24-23.09.05:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Steam01.uasset"
+[2025.09.24-23.09.05:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2025.09.24-23.09.05:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2025.09.24-23.09.05:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2025.09.24-23.09.05:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2025.09.24-23.09.05:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2025.09.24-23.09.05:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2025.09.24-23.09.05:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2025.09.24-23.09.05:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2025.09.24-23.09.05:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2025.09.24-23.09.05:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2025.09.24-23.09.05:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2025.09.24-23.09.05:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2025.09.24-23.09.05:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2025.09.24-23.09.05:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2025.09.24-23.09.05:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2025.09.24-23.09.05:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2025.09.24-23.09.05:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2025.09.24-23.09.06:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2025.09.24-23.09.06:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2025.09.24-23.09.06:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2025.09.24-23.09.06:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Maps/Minimal_Default.umap"
+[2025.09.24-23.09.06:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2025.09.24-23.09.06:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Maps/StarterMap.umap"
+[2025.09.24-23.09.06:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2025.09.24-23.09.06:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2025.09.24-23.09.06:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2025.09.24-23.09.06:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2025.09.24-23.09.06:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2025.09.24-23.09.06:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2025.09.24-23.09.06:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2025.09.24-23.09.06:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2025.09.24-23.09.06:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2025.09.24-23.09.06:081][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2025.09.24-23.09.06:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2025.09.24-23.09.06:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2025.09.24-23.09.06:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2025.09.24-23.09.06:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2025.09.24-23.09.06:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2025.09.24-23.09.06:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2025.09.24-23.09.06:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2025.09.24-23.09.06:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2025.09.24-23.09.06:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Glass.uasset"
+[2025.09.24-23.09.06:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2025.09.24-23.09.06:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2025.09.24-23.09.06:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2025.09.24-23.09.06:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2025.09.24-23.09.06:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2025.09.24-23.09.06:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2025.09.24-23.09.06:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2025.09.24-23.09.06:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2025.09.24-23.09.06:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2025.09.24-23.09.06:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2025.09.24-23.09.06:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2025.09.24-23.09.06:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2025.09.24-23.09.06:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2025.09.24-23.09.06:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2025.09.24-23.09.06:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2025.09.24-23.09.06:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2025.09.24-23.09.06:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2025.09.24-23.09.06:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2025.09.24-23.09.06:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2025.09.24-23.09.06:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2025.09.24-23.09.06:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2025.09.24-23.09.06:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2025.09.24-23.09.06:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2025.09.24-23.09.06:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2025.09.24-23.09.06:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2025.09.24-23.09.06:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2025.09.24-23.09.06:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Particles/P_Explosion.uasset"
+[2025.09.24-23.09.06:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Particles/P_Fire.uasset"
+[2025.09.24-23.09.06:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Particles/P_Smoke.uasset"
+[2025.09.24-23.09.06:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Particles/P_Sparks.uasset"
+[2025.09.24-23.09.06:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2025.09.24-23.09.06:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2025.09.24-23.09.06:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2025.09.24-23.09.06:260][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2025.09.24-23.09.06:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2025.09.24-23.09.06:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2025.09.24-23.09.06:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2025.09.24-23.09.06:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2025.09.24-23.09.06:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2025.09.24-23.09.06:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2025.09.24-23.09.06:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2025.09.24-23.09.06:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/MaterialSphere.uasset"
+[2025.09.24-23.09.06:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_Bush.uasset"
+[2025.09.24-23.09.06:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_Chair.uasset"
+[2025.09.24-23.09.06:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2025.09.24-23.09.06:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_Couch.uasset"
+[2025.09.24-23.09.06:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_Door.uasset"
+[2025.09.24-23.09.06:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2025.09.24-23.09.06:322][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2025.09.24-23.09.06:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2025.09.24-23.09.06:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2025.09.24-23.09.06:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2025.09.24-23.09.06:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2025.09.24-23.09.06:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2025.09.24-23.09.06:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_Rock.uasset"
+[2025.09.24-23.09.06:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_Shelf.uasset"
+[2025.09.24-23.09.06:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_Stairs.uasset"
+[2025.09.24-23.09.06:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_Statue.uasset"
+[2025.09.24-23.09.06:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_TableRound.uasset"
+[2025.09.24-23.09.06:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2025.09.24-23.09.06:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2025.09.24-23.09.06:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2025.09.24-23.09.06:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2025.09.24-23.09.06:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2025.09.24-23.09.06:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2025.09.24-23.09.06:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2025.09.24-23.09.06:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2025.09.24-23.09.06:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2025.09.24-23.09.06:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2025.09.24-23.09.06:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2025.09.24-23.09.06:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2025.09.24-23.09.06:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2025.09.24-23.09.06:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2025.09.24-23.09.06:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2025.09.24-23.09.06:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2025.09.24-23.09.06:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2025.09.24-23.09.06:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2025.09.24-23.09.06:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2025.09.24-23.09.06:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2025.09.24-23.09.06:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2025.09.24-23.09.06:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2025.09.24-23.09.06:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2025.09.24-23.09.06:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2025.09.24-23.09.06:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2025.09.24-23.09.06:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2025.09.24-23.09.06:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2025.09.24-23.09.06:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2025.09.24-23.09.06:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2025.09.24-23.09.06:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2025.09.24-23.09.06:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2025.09.24-23.09.06:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2025.09.24-23.09.06:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2025.09.24-23.09.06:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2025.09.24-23.09.06:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2025.09.24-23.09.06:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2025.09.24-23.09.06:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2025.09.24-23.09.06:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2025.09.24-23.09.06:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2025.09.24-23.09.06:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2025.09.24-23.09.06:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2025.09.24-23.09.06:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2025.09.24-23.09.06:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2025.09.24-23.09.06:610][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2025.09.24-23.09.06:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2025.09.24-23.09.06:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2025.09.24-23.09.06:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2025.09.24-23.09.06:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2025.09.24-23.09.06:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2025.09.24-23.09.06:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2025.09.24-23.09.06:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2025.09.24-23.09.06:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2025.09.24-23.09.06:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2025.09.24-23.09.06:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2025.09.24-23.09.06:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2025.09.24-23.09.06:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2025.09.24-23.09.06:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2025.09.24-23.09.06:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2025.09.24-23.09.06:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2025.09.24-23.09.06:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2025.09.24-23.09.06:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2025.09.24-23.09.06:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2025.09.24-23.09.06:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2025.09.24-23.09.06:747][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2025.09.24-23.09.06:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2025.09.24-23.09.06:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2025.09.24-23.09.06:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2025.09.24-23.09.06:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2025.09.24-23.09.06:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2025.09.24-23.09.06:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2025.09.24-23.09.06:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2025.09.24-23.09.06:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Door_M.uasset"
+[2025.09.24-23.09.06:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Door_N.uasset"
+[2025.09.24-23.09.06:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2025.09.24-23.09.06:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2025.09.24-23.09.06:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2025.09.24-23.09.06:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2025.09.24-23.09.06:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2025.09.24-23.09.06:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2025.09.24-23.09.06:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2025.09.24-23.09.06:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2025.09.24-23.09.06:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2025.09.24-23.09.06:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2025.09.24-23.09.06:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2025.09.24-23.09.06:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2025.09.24-23.09.06:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2025.09.24-23.09.06:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2025.09.24-23.09.06:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2025.09.24-23.09.06:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2025.09.24-23.09.06:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2025.09.24-23.09.06:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2025.09.24-23.09.06:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2025.09.24-23.09.06:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2025.09.24-23.09.06:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2025.09.24-23.09.06:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2025.09.24-23.09.06:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2025.09.24-23.09.06:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2025.09.24-23.09.06:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2025.09.24-23.09.07:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2025.09.24-23.09.07:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2025.09.24-23.09.07:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2025.09.24-23.09.07:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2025.09.24-23.09.07:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2025.09.24-23.09.07:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2025.09.24-23.09.07:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2025.09.24-23.09.07:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2025.09.24-23.09.07:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2025.09.24-23.09.07:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2025.09.24-23.09.07:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2025.09.24-23.09.07:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2025.09.24-23.09.07:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2025.09.24-23.09.07:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2025.09.24-23.09.07:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2025.09.24-23.09.07:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2025.09.24-23.09.07:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2025.09.24-23.09.07:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2025.09.24-23.09.07:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2025.09.24-23.09.07:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2025.09.24-23.09.07:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2025.09.24-23.09.07:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2025.09.24-23.09.07:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2025.09.24-23.09.07:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2025.09.24-23.09.07:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2025.09.24-23.09.07:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2025.09.24-23.09.07:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Water_M.uasset"
+[2025.09.24-23.09.07:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Water_N.uasset"
+[2025.09.24-23.09.07:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2025.09.24-23.09.07:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2025.09.24-23.09.07:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2025.09.24-23.09.07:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2025.09.24-23.09.07:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2025.09.24-23.09.07:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2025.09.24-23.09.07:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2025.09.24-23.09.07:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2025.09.24-23.09.07:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2025.09.24-23.09.07:252][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2025.09.24-23.09.07:254][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2025.09.24-23.09.07:294][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2025.09.24-23.09.07:399][  0]LogSavePackage: Moving '../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Saved/Floor_400x400B00C5C4E46DE6CD3257EF3B08076F61C.tmp' to '../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2025.09.24-23.09.07:401][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2025.09.24-23.09.07:401][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.09.24-23.09.07:402][  0]LightingResults: New page: Lighting Build
+[2025.09.24-23.09.07:403][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-23.09.07:403][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-23.09.07:403][  0]MapCheck: New page: Map Check
+[2025.09.24-23.09.07:403][  0]LightingResults: New page: Lighting Build
+[2025.09.24-23.09.07:406][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.24-23.09.07:408][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.09.24-23.09.07:461][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '2DSideScrollerExampleMap'.
+[2025.09.24-23.09.07:461][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2025.09.24-23.09.07:467][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.24-23.09.07:472][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.09.24-23.09.07:473][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.24-23.09.07:473][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2025.09.24-23.09.07:473][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.072
+[2025.09.24-23.09.07:475][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.639
+[2025.09.24-23.09.07:607][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-23.09.07:612][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-23.09.07:615][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-23.09.07:618][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-23.09.07:648][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0069 seconds. Added 3822 classes and 928 folders.
+[2025.09.24-23.09.07:655][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.09.24-23.09.07:656][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.09.24-23.09.07:656][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:656][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.09.24-23.09.07:656][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:656][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2025.09.24-23.09.07:656][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2025.09.24-23.09.07:656][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2025.09.24-23.09.07:656][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:656][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2025.09.24-23.09.07:656][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:656][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2025.09.24-23.09.07:656][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2025.09.24-23.09.07:656][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2025.09.24-23.09.07:657][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:657][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2025.09.24-23.09.07:657][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:657][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2025.09.24-23.09.07:657][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2025.09.24-23.09.07:657][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.09.24-23.09.07:657][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:657][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.09.24-23.09.07:657][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:657][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2025.09.24-23.09.07:657][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2025.09.24-23.09.07:657][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2025.09.24-23.09.07:657][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:657][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2025.09.24-23.09.07:657][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:657][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2025.09.24-23.09.07:657][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2025.09.24-23.09.07:658][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2025.09.24-23.09.07:658][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:658][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2025.09.24-23.09.07:658][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:658][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2025.09.24-23.09.07:658][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2025.09.24-23.09.07:658][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2025.09.24-23.09.07:658][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:658][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2025.09.24-23.09.07:658][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:658][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2025.09.24-23.09.07:658][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2025.09.24-23.09.07:659][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2025.09.24-23.09.07:659][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:659][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2025.09.24-23.09.07:659][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:659][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2025.09.24-23.09.07:659][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.09.24-23.09.07:659][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.09.24-23.09.07:659][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:659][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.09.24-23.09.07:659][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:659][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2025.09.24-23.09.07:659][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.09.24-23.09.07:660][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2025.09.24-23.09.07:660][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:660][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2025.09.24-23.09.07:660][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:660][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2025.09.24-23.09.07:660][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.09.24-23.09.07:660][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2025.09.24-23.09.07:660][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:660][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2025.09.24-23.09.07:660][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:660][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2025.09.24-23.09.07:660][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.09.24-23.09.07:660][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.09.24-23.09.07:660][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:660][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.09.24-23.09.07:660][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:660][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2025.09.24-23.09.07:660][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2025.09.24-23.09.07:661][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.09.24-23.09.07:661][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:661][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.09.24-23.09.07:661][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:661][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2025.09.24-23.09.07:661][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2025.09.24-23.09.07:661][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.09.24-23.09.07:661][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:661][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.09.24-23.09.07:661][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:661][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2025.09.24-23.09.07:661][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.09.24-23.09.07:661][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2025.09.24-23.09.07:661][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:662][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2025.09.24-23.09.07:662][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:662][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2025.09.24-23.09.07:662][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2025.09.24-23.09.07:662][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.09.24-23.09.07:662][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:662][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.09.24-23.09.07:662][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:662][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2025.09.24-23.09.07:662][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2025.09.24-23.09.07:662][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2025.09.24-23.09.07:662][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:662][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2025.09.24-23.09.07:662][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:662][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2025.09.24-23.09.07:662][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.09.24-23.09.07:663][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.09.24-23.09.07:663][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:663][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.09.24-23.09.07:663][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:663][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2025.09.24-23.09.07:663][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2025.09.24-23.09.07:663][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.09.24-23.09.07:663][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:663][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.09.24-23.09.07:663][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:663][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2025.09.24-23.09.07:663][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2025.09.24-23.09.07:663][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.09.24-23.09.07:663][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:663][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.09.24-23.09.07:663][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:663][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2025.09.24-23.09.07:663][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2025.09.24-23.09.07:664][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.09.24-23.09.07:664][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:664][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.09.24-23.09.07:664][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:664][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2025.09.24-23.09.07:664][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.09.24-23.09.07:664][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.09.24-23.09.07:664][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:664][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.09.24-23.09.07:664][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:664][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2025.09.24-23.09.07:664][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.09.24-23.09.07:664][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2025.09.24-23.09.07:665][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:665][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2025.09.24-23.09.07:665][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:665][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2025.09.24-23.09.07:665][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.09.24-23.09.07:665][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.09.24-23.09.07:665][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:665][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.09.24-23.09.07:665][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:665][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2025.09.24-23.09.07:665][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.09.24-23.09.07:665][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.09.24-23.09.07:665][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:665][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.09.24-23.09.07:665][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:665][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2025.09.24-23.09.07:665][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2025.09.24-23.09.07:666][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2025.09.24-23.09.07:666][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.09.24-23.09.07:666][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2025.09.24-23.09.07:666][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.09.24-23.09.07:666][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2025.09.24-23.09.07:666][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2025.09.24-23.09.07:696][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.09.24-23.09.07:699][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2025.09.24-23.09.07:741][  0]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.09.24-23.09.07:749][  0]LogSlate: Took 0.006619 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.09.24-23.09.07:750][  0]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.09.24-23.09.07:826][  0]LogRenderer: Reallocating scene render targets to support 2172x808 Format 10 NumSamples 1 (Frame:1).
+[2025.09.24-23.09.07:902][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.09.24-23.09.07:902][  0]LogLoad: (Engine Initialization) Total time: 7.07 seconds
+[2025.09.24-23.09.07:902][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.09.24-23.09.07:918][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2025.09.24-23.09.07:918][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2025.09.24-23.09.07:935][  0]LogAssetRegistry: Asset discovery search completed in 4.7599 seconds
+[2025.09.24-23.09.07:938][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2025.09.24-23.09.07:939][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.09.24-23.09.14:168][734]LogTemp: Repeating last play command: Selected Viewport
+[2025.09.24-23.09.14:171][734]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.09.24-23.09.14:174][734]PIE: New page: PIE session: 2DSideScrollerExampleMap (Sep 24, 2025, 3:09:14 PM)
+[2025.09.24-23.09.14:175][734]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2025.09.24-23.09.14:176][734]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2025.09.24-23.09.14:176][734]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2025.09.24-23.09.14:179][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002724s)
+[2025.09.24-23.09.14:180][734]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2025.09.24-23.09.14:182][734]LogPlayLevel: PIE: World Init took: (0.002340s)
+[2025.09.24-23.09.14:182][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.005345s)
+[2025.09.24-23.09.14:186][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.09.24-23.09.14:187][734]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.24-23.09.14:187][734]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.24-23.09.14:187][734]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.24-23.09.14:187][734]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.24-23.09.14:187][734]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.24-23.09.14:187][734]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.09.24-23.09.14:187][734]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.24-23.09.14:187][734]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.09.24-23.09.14:187][734]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.24-23.09.14:187][734]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.24-23.09.14:187][734]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.24-23.09.14:187][734]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.24-23.09.14:187][734]LogAudioMixer: Display: Initializing audio mixer.
+[2025.09.24-23.09.14:190][734]LogAudioMixer: Display: 0: FrontLeft
+[2025.09.24-23.09.14:190][734]LogAudioMixer: Display: 1: FrontRight
+[2025.09.24-23.09.14:206][734]LogAudioMixer: Display: Using Audio Device Headphones (ROG CETRA TRUE WIRELESS SPEEDNOVA)
+[2025.09.24-23.09.14:207][734]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.24-23.09.14:207][734]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.24-23.09.14:207][734]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.24-23.09.14:207][734]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.09.24-23.09.14:207][734]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.09.24-23.09.14:207][734]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.09.24-23.09.14:208][734]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.09.24-23.09.14:208][734]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.09.24-23.09.14:208][734]LogInit: FAudioDevice initialized.
+[2025.09.24-23.09.14:208][734]LogAudio: Display: Audio Device (ID: 2) registered with world '2DSideScrollerExampleMap'.
+[2025.09.24-23.09.14:216][734]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2025.09.24-23.09.14:220][734]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2025.09.24-19.09.14
+[2025.09.24-23.09.14:221][734]LogWorld: Bringing up level for play took: 0.001146
+[2025.09.24-23.09.14:221][734]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2025.09.24-23.09.14:232][734]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2025.09.24-23.09.14:233][734]PIE: Server logged in
+[2025.09.24-23.09.14:235][734]PIE: Play in editor total start time 0.064 seconds.
+[2025.09.24-23.09.55:616][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-23.09.55:616][690]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2025.09.24-23.09.55:616][690]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-23.09.55:616][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-23.09.55:623][690]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.24-23.09.55:624][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-23.09.55:626][690]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.24-23.09.55:626][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.09.24-23.09.55:626][690]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.09.24-23.09.55:661][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.24-23.09.55:662][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.09.24-23.09.55:688][692]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.09.24-23.10.17:422][284]LogContentBrowser: Deferred new asset file creation: 2DSideScrollerExampleMap1
+[2025.09.24-23.10.17:430][284]LogContentBrowser: Creating deferred item: 2DSideScrollerExampleMap1
+[2025.09.24-23.10.23:715][ 39]LogContentBrowser: Attempting asset rename: 2DSideScrollerExampleMap1 -> dupilacate
+[2025.09.24-23.10.23:722][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.09.24-23.10.23:727][ 39]LogContentBrowser: End creating deferred item 2DSideScrollerExampleMap1
+[2025.09.24-23.10.27:583][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.09.24-23.10.29:796][502]LogSlate: Window 'Save Content' being destroyed
+[2025.09.24-23.10.29:813][502]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.24-23.10.29:829][502]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/dupilacate.dupilacate
+[2025.09.24-23.10.29:829][502]Cmd: MAP LOAD FILE="../../../../../../Users/Trent/Documents/Unreal Projects/evilsidescrooler/Content/2DSideScrollerBP/Maps/dupilacate.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.09.24-23.10.29:830][502]LightingResults: New page: Lighting Build
+[2025.09.24-23.10.29:830][502]LoadErrors: New page: Loading map: dupilacate.umap
+[2025.09.24-23.10.29:864][502]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-23.10.29:864][502]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-23.10.29:864][502]MapCheck: New page: Map Check
+[2025.09.24-23.10.29:864][502]LightingResults: New page: Lighting Build
+[2025.09.24-23.10.29:866][502]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.09.24-23.10.29:868][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.09.24-23.10.29:868][502]LogAudio: Display: Audio Device (ID: 1) registered with world 'dupilacate'.
+[2025.09.24-23.10.29:870][502]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.09.24-23.10.29:870][502]LogAIModule: Creating AISystem for world dupilacate
+[2025.09.24-23.10.29:872][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.09.24-23.10.29:874][502]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.09.24-23.10.29:874][502]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2025.09.24-23.10.29:874][502]LogFileHelpers: Loading map 'dupilacate' took 0.044
+[2025.09.24-23.10.33:930][981]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_34)
+[2025.09.24-23.10.34:642][ 54]Cmd: DELETE
+[2025.09.24-23.10.34:642][ 54]Cmd: ACTOR DELETE
+[2025.09.24-23.10.34:647][ 54]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2025.09.24-23.10.34:649][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.09.24-23.10.34:650][ 54]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2025.09.24-23.10.35:068][104]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_25)
+[2025.09.24-23.10.35:105][106]Cmd: DELETE
+[2025.09.24-23.10.35:105][106]Cmd: ACTOR DELETE
+[2025.09.24-23.10.35:106][106]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2025.09.24-23.10.35:108][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.09.24-23.10.35:109][106]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.09.24-23.10.35:722][180]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_14)
+[2025.09.24-23.10.35:781][185]Cmd: DELETE
+[2025.09.24-23.10.35:781][185]Cmd: ACTOR DELETE
+[2025.09.24-23.10.35:782][185]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2025.09.24-23.10.35:784][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.09.24-23.10.35:785][185]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.09.24-23.10.36:481][269]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_17)
+[2025.09.24-23.10.36:590][280]Cmd: DELETE
+[2025.09.24-23.10.36:590][280]Cmd: ACTOR DELETE
+[2025.09.24-23.10.36:591][280]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2025.09.24-23.10.36:594][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.09.24-23.10.36:594][280]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.09.24-23.10.37:112][342]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_13)
+[2025.09.24-23.10.38:006][447]Cmd: DELETE
+[2025.09.24-23.10.38:006][447]Cmd: ACTOR DELETE
+[2025.09.24-23.10.38:007][447]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2025.09.24-23.10.38:009][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.09.24-23.10.38:010][447]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.09.24-23.10.38:429][497]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Ledge_12)
+[2025.09.24-23.10.38:664][523]Cmd: DELETE
+[2025.09.24-23.10.38:664][523]Cmd: ACTOR DELETE
+[2025.09.24-23.10.38:665][523]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2025.09.24-23.10.38:668][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.09.24-23.10.38:668][523]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.09.24-23.10.39:135][579]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2025.09.24-23.10.39:904][669]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (RightEdge)
+[2025.09.24-23.10.40:037][683]Cmd: DELETE
+[2025.09.24-23.10.40:037][683]Cmd: ACTOR DELETE
+[2025.09.24-23.10.40:037][683]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2025.09.24-23.10.40:040][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.09.24-23.10.40:040][683]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.09.24-23.10.41:553][865]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (LeftEdge)
+[2025.09.24-23.10.41:654][875]Cmd: DELETE
+[2025.09.24-23.10.41:654][875]Cmd: ACTOR DELETE
+[2025.09.24-23.10.41:655][875]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2025.09.24-23.10.41:658][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.09.24-23.10.41:658][875]LogEditorActor: Deleted 1 Actors (0.004 secs)
+[2025.09.24-23.10.45:271][309]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2025.09.24-23.10.52:926][223]Cmd: EDIT COPY
+[2025.09.24-23.10.53:160][251]Cmd: EDIT PASTE
+[2025.09.24-23.11.08:746][119]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2025.09.24-23.20.27:845][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.09.24-23.20.27:846][326]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/dupilacate' took 0.005
+[2025.09.24-23.30.28:349][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.09.24-23.30.28:349][119]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/dupilacate' took 0.003
+[2025.09.24-23.38.27:450][ 88]LogContentBrowser: Deferred new asset file creation: NewPaperSprite
+[2025.09.24-23.38.27:456][ 88]LogContentBrowser: Creating deferred item: NewPaperSprite
+[2025.09.24-23.38.30:102][406]LogContentBrowser: Attempting asset rename: NewPaperSprite -> grass
+[2025.09.24-23.38.30:104][406]LogContentBrowser: End creating deferred item NewPaperSprite
+[2025.09.24-23.38.31:290][543]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/grass.grass
+[2025.09.24-23.38.31:344][543]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.09.24-23.38.31:383][543]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.24-23.38.37:769][814]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Trent\Downloads\Pixel Art Grassland Tileset 32x32\tilesetgrass.png)
+[2025.09.24-23.38.37:771][814]LogTexture: Display: Building textures: tilesetgrass (OODLE_AutoDXT, 320X128)
+[2025.09.24-23.38.53:298][327]LogRenderer: Reallocating scene render targets to support 2172x816 Format 10 NumSamples 1 (Frame:1790).
+[2025.09.24-23.38.53:333][327]LogRenderer: Reallocating scene render targets to support 2172x824 Format 10 NumSamples 1 (Frame:1791).
+[2025.09.24-23.38.53:369][327]LogRenderer: Reallocating scene render targets to support 2172x836 Format 10 NumSamples 1 (Frame:1792).
+[2025.09.24-23.38.53:401][327]LogRenderer: Reallocating scene render targets to support 2172x848 Format 10 NumSamples 1 (Frame:1793).
+[2025.09.24-23.38.53:429][327]LogRenderer: Reallocating scene render targets to support 2172x860 Format 10 NumSamples 1 (Frame:1794).
+[2025.09.24-23.38.53:457][327]LogRenderer: Reallocating scene render targets to support 2172x868 Format 10 NumSamples 1 (Frame:1795).
+[2025.09.24-23.38.53:484][327]LogRenderer: Reallocating scene render targets to support 2172x876 Format 10 NumSamples 1 (Frame:1796).
+[2025.09.24-23.38.53:512][327]LogRenderer: Reallocating scene render targets to support 2172x888 Format 10 NumSamples 1 (Frame:1797).
+[2025.09.24-23.38.53:541][327]LogRenderer: Reallocating scene render targets to support 2172x900 Format 10 NumSamples 1 (Frame:1798).
+[2025.09.24-23.38.53:575][327]LogRenderer: Reallocating scene render targets to support 2172x908 Format 10 NumSamples 1 (Frame:1799).
+[2025.09.24-23.38.53:603][327]LogRenderer: Reallocating scene render targets to support 2172x916 Format 10 NumSamples 1 (Frame:1800).
+[2025.09.24-23.38.53:631][327]LogRenderer: Reallocating scene render targets to support 2172x920 Format 10 NumSamples 1 (Frame:1801).
+[2025.09.24-23.38.53:666][327]LogRenderer: Reallocating scene render targets to support 2172x924 Format 10 NumSamples 1 (Frame:1802).
+[2025.09.24-23.38.53:699][327]LogRenderer: Reallocating scene render targets to support 2172x928 Format 10 NumSamples 1 (Frame:1803).
+[2025.09.24-23.38.53:729][327]LogRenderer: Reallocating scene render targets to support 2172x932 Format 10 NumSamples 1 (Frame:1804).
+[2025.09.24-23.38.53:762][327]LogRenderer: Reallocating scene render targets to support 2172x936 Format 10 NumSamples 1 (Frame:1805).
+[2025.09.24-23.38.53:793][327]LogRenderer: Reallocating scene render targets to support 2172x948 Format 10 NumSamples 1 (Frame:1806).
+[2025.09.24-23.38.53:822][327]LogRenderer: Reallocating scene render targets to support 2172x964 Format 10 NumSamples 1 (Frame:1807).
+[2025.09.24-23.38.53:856][327]LogRenderer: Reallocating scene render targets to support 2172x980 Format 10 NumSamples 1 (Frame:1808).
+[2025.09.24-23.38.53:891][327]LogRenderer: Reallocating scene render targets to support 2172x996 Format 10 NumSamples 1 (Frame:1809).
+[2025.09.24-23.38.53:925][327]LogRenderer: Reallocating scene render targets to support 2172x1008 Format 10 NumSamples 1 (Frame:1810).
+[2025.09.24-23.38.53:960][327]LogRenderer: Reallocating scene render targets to support 2172x1016 Format 10 NumSamples 1 (Frame:1811).
+[2025.09.24-23.38.53:995][327]LogRenderer: Reallocating scene render targets to support 2172x1024 Format 10 NumSamples 1 (Frame:1812).
+[2025.09.24-23.38.54:030][327]LogRenderer: Reallocating scene render targets to support 2172x1032 Format 10 NumSamples 1 (Frame:1813).
+[2025.09.24-23.38.54:064][327]LogRenderer: Reallocating scene render targets to support 2172x1036 Format 10 NumSamples 1 (Frame:1814).
+[2025.09.24-23.39.38:541][601]LogSlate: Window 'grass' being destroyed
+[2025.09.24-23.39.38:549][601]LogSlate: Window 'grass' being destroyed
+[2025.09.24-23.39.38:584][601]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.24-23.39.38:584][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.24-23.39.47:423][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.09.24-23.39.48:248][651]LogSlate: Window 'Delete Assets' being destroyed
+[2025.09.24-23.39.48:259][651]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/2DSideScroller/Sprites/tilesetgrass.tilesetgrass
+[2025.09.24-23.39.49:794][651]LogSlate: Window 'Message' being destroyed
+[2025.09.24-23.39.49:802][651]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/2DSideScroller/Sprites/tilesetgrass.tilesetgrass is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/2DSideScroller/Sprites/tilesetgrass.tilesetgrass:
+   PaperSprite /Game/2DSideScroller/Sprites/grass.grass (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2025.09.24-23.39.49:802][651]LogObjectTools: Warning: ForceDeleteObject failed to delete tilesetgrass, this package is now potentially corrupt
+[2025.09.24-23.39.49:803][651]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2025.09.24-23.39.49:860][651]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.058 s
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: === Handled ensure: ===
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: 
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3205]
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: 
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: 					from the file system manually: 
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: /Game/2DSideScroller/Sprites/tilesetgrass
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: Stack: 
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fff4cc2daa8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fff4c4f55f9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fff4bc3b269 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fff4bf20dde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fff4bf17e97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fffdcb2a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fffdcb4280e UE4Editor-Slate.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fffdc99421e UE4Editor-Slate.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fffdca0e104 UE4Editor-Slate.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fffdc9f7097 UE4Editor-Slate.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fffdc9e9b62 UE4Editor-Slate.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff8197ac025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff8197992b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff8197ae465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff819794410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff852c4ef5c USER32.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff852c4e684 USER32.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff8197afb79 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fffdca1865a UE4Editor-Slate.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fffdc9b6b09 UE4Editor-Slate.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fff4bfb3e9e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fff4c4e8de2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fff4c4e8184 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fff0d482bac UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fff0d482faa UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fff0d4723a7 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fff4969f685 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fff497b32fe UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fff497943c6 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fffdca79657 UE4Editor-Slate.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fffdcac6e4a UE4Editor-Slate.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fff497cf6f0 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fffdc992112 UE4Editor-Slate.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fffdc9f5087 UE4Editor-Slate.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007fffdc9e8756 UE4Editor-Slate.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff8197abcc8 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff8197992b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff8197ae465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff819794410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff852c4ef5c USER32.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff852c4e684 USER32.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff8197afcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff66c4d7621 UE4Editor.exe!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff66c4f0fcc UE4Editor.exe!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff66c4f10ba UE4Editor.exe!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff66c4f40dd UE4Editor.exe!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff66c505984 UE4Editor.exe!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff66c50853a UE4Editor.exe!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff852547374 KERNEL32.DLL!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: [Callstack] 0x00007ff852f3cc91 ntdll.dll!UnknownFunction []
+[2025.09.24-23.39.49:861][651]LogOutputDevice: Error: 
